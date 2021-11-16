@@ -1,0 +1,404 @@
+var url = "https://gmail-demo.adapting.com:3003/";
+//var url = "https://098a-181-49-238-154.ngrok.io/";
+
+function loadAddOn(event) {
+  //-------------------------ACCEDE A LOS DATOS DEL CORREO -------------------------------------------------------------
+  var event = event 
+  var accessToken = event.gmail.accessToken;
+  var messageId = event.gmail.messageId;
+  GmailApp.setCurrentMessageAccessToken(accessToken);
+  var mailMessage = GmailApp.getMessageById(messageId);
+  var idCuenta = Session.getActiveUser().getEmail();
+  var asunto = mailMessage.getSubject();
+  var cuerpo = mailMessage.getPlainBody();
+  var codigo = codigo;
+  var name = mailMessage.getAttachments();
+  var base = ""
+  for (var k = 0; k < name.length; k++) {
+
+    if (k < name.length-1){
+      if (name[k].getName() == 'invite.ics'){
+        base = base + (k+1)+') <h1 style="background-color:#ff0000;">#ff0000</h1>'+name[k].getName()+ " <br> "
+      } else{
+        base = base + (k+1)+") "+name[k].getName() + " <br> "
+      }
+    } else{
+      if (name[k].getName() == 'invite.ics'){
+        base = base + (k+1)+") <font setBackgroundColor(#ff0000)><b>"+name[k].getName()+'</b></font>' + " <br> "
+      } else{
+      base = base + (k+1)+") "+name[k].getName()
+      }
+    }
+
+  }
+  
+  //console.log("archivo ",name.length)
+  if (name.length == 0.0){
+    base = "no hay adjunto";
+  }
+
+  var formData ={
+    "usuarioGoogle": idCuenta
+  };
+
+  var options = {
+    "Content-Type" : "application/json",
+    'method': 'POST',
+    'payload': formData,
+    'muteHttpExceptions': true
+  };
+
+  var abox = url+"/consulta/";
+  var res = UrlFetchApp.fetch(abox,options);
+  console.log(res);
+
+//--------------------------------------BOTONES-------------------------------------------------------------------
+
+var action = CardService.newAction().setFunctionName('iniciaSesion');
+    cardAction = CardService.newTextButton()
+      .setText("INICIA SESION ABOX")
+      .setOnClickAction(action);
+
+
+//--------------------------------------CONDICIONALES-------------------------------------------------------------------
+if (res == 'false'){
+
+    var action = CardService.newAuthorizationAction().setAuthorizationUrl(url+'pagina?correo='+idCuenta);
+      aut = CardService.newTextButton()
+      .setText('Inicia sesion en Abox')
+      .setAuthorizationAction(action);
+
+    var image = CardService.newImage()
+      .setAltText("ABOX")
+      .setImageUrl("https://www.adapting.com/wp-content/uploads/2021/11/gmailtoabox-transparente.png");
+
+    var card = CardService.newCardBuilder()
+      .setHeader(CardService.newCardHeader()
+        .setTitle(idCuenta)
+        .setSubtitle('Usuario')
+        .setImageStyle(CardService.ImageStyle.SQUARE)
+             .setImageUrl(
+                 'https://www.adapting.com/wp-content/uploads/2021/11/institucional-gmailtoabox-transparente.png'))
+      .addSection(CardService.newCardSection()
+          .setHeader('Inicia sesion')
+          .addWidget(CardService.newTextParagraph().setText('<font color="#d9141d"><b>Usuario Gmail</b></font>' + " <br> " + idCuenta))
+          .addWidget(aut)
+          .addWidget(image)
+          )
+          .build();
+  return ([card]);
+
+} if (res == 'true'){
+
+  var image = CardService.newImage().setAltText("ABOX").setImageUrl("https://www.adapting.com/wp-content/uploads/2021/11/gmailtoabox-transparente.png");
+
+  var check  = CardService.newDecoratedText()
+  .setTopLabel("Attachments")
+  .setText("Marca para cargar Adjuntos")
+  .setWrapText(true)
+  .setSwitchControl(CardService.newSwitch()
+      .setFieldName("check")
+      .setValue(true)
+        .setControlType(
+            CardService.SwitchControlType.CHECK_BOX));
+
+  var etiqueta = GmailApp.getUserLabelByName("ABOX");
+  if (!etiqueta){
+    GmailApp.createLabel("ABOX");
+  }
+
+  var etiquetaAbox = false;
+  var a = mailMessage.getThread().getLabels()
+  for (var i = 0; i < a.length; i++) {
+    //console.log("# etiqueta ",a[i].getName());
+    if(a[i].getName()=="ABOX"){
+      //console.log("Este Correo A Sido Subido Previamente a ABOX");
+      etiquetaAbox = true;
+    }
+  }
+
+
+  if (etiquetaAbox == true){
+
+    var fixedFooter = CardService.newFixedFooter()
+    .setPrimaryButton(
+        CardService.newTextButton()
+            .setText("Cerrar sesion")
+            .setOnClickAction(
+                CardService.newAction()
+                    .setFunctionName(
+                        "cerrarSesion")));
+    
+    var card = CardService.newCardBuilder()
+      .setHeader(CardService.newCardHeader().setTitle('CREAR DOCUMENTO')
+      .setImageStyle(CardService.ImageStyle.SQUARE)
+             .setImageUrl(
+                 'https://w7.pngwing.com/pngs/872/285/png-transparent-computer-icons-document-memo-miscellaneous-angle-text.png'))
+      .setFixedFooter(fixedFooter)
+      .addSection(CardService.newCardSection()
+          .addWidget(CardService.newTextParagraph().setText('<font color="#d9141d"><b>ASUNTO</b></font>' + " <br> " + asunto))
+          //.addWidget(CardService.newTextParagraph().setText('<font color="#d9141d"><b>CUERPO</b></font>' + " <br> " + cuerpo))
+          //.addWidget(CardService.newTextParagraph().setText('<font color="#d9141d"><b>ADJUNTOS</b></font>' + " <br> " + base))
+          //.addWidget(check)
+          .addWidget(image)
+          .addWidget(CardService.newTextParagraph().setText("<br><br><br><br><br><br><br><br><br><br><br>"))
+          .addWidget(CardService.newTextParagraph().setText('<font>Correo ya cargado en Abox-ECM. Se debe desmarcar etiqueta antes.</font>'))
+          )
+          .build();
+    return ([card]);
+
+  } else{
+
+    var fixedFooter = CardService.newFixedFooter()
+    .setPrimaryButton(
+        CardService.newTextButton()
+            .setText("Crear")
+            .setOnClickAction(
+                CardService.newAction()
+                    .setFunctionName(
+                        "crearDocumento")))
+    .setSecondaryButton(
+        CardService.newTextButton()
+            .setText("Cerrar sesion")
+            .setOnClickAction(
+                CardService.newAction()
+                    .setFunctionName(
+                        "cerrarSesion")));
+    
+    var card = CardService.newCardBuilder()
+      .setHeader(CardService.newCardHeader().setTitle('CREAR DOCUMENTO')
+      .setImageStyle(CardService.ImageStyle.SQUARE)
+             .setImageUrl(
+                 'https://w7.pngwing.com/pngs/872/285/png-transparent-computer-icons-document-memo-miscellaneous-angle-text.png'))
+      .setFixedFooter(fixedFooter)
+      .addSection(CardService.newCardSection()
+          .addWidget(CardService.newTextParagraph().setText('<font color="#d9141d"><b>ASUNTO</b></font>' + " <br> " + asunto))
+          //.addWidget(CardService.newTextParagraph().setText('<font color="#d9141d"><b>CUERPO</b></font>' + " <br> " + cuerpo))
+          .addWidget(CardService.newTextParagraph().setText('<font color="#d9141d"><b>ADJUNTOS</b></font>' + " <br> " + base))
+          .addWidget(check)
+          .addWidget(image)
+          )
+          .build();
+    return ([card]);
+  }
+
+  } else{
+
+    var action5 = CardService.newAction().setFunctionName('soporte');
+    cardAction5 = CardService.newTextButton()
+      .setText("REPORTAR")
+      .setOnClickAction(action5);
+
+    var sugerencia = CardService.newTextInput()
+      .setFieldName("soporte")
+      .setTitle("soporte")
+      .setHint("reportar problema")
+      .setValue("");
+
+    var card = CardService.newCardBuilder()
+      .setHeader(CardService.newCardHeader().setTitle('Por favor actualizar la pagina'))
+      .addSection(CardService.newCardSection()
+      .addWidget(CardService.newTextParagraph().setText('Si persiste por favor reportarlo'))
+         .addWidget(sugerencia)
+         .addWidget(cardAction5)
+          )
+          .build();
+  return ([card]);
+  }
+}
+
+//-----------------------------------------------------------------------------------------------------------------------
+
+function crearDocumento(event){
+
+  var accessToken = event.gmail.accessToken;
+  var messageId = event.gmail.messageId;
+  GmailApp.setCurrentMessageAccessToken(accessToken);
+  var mailMessage = GmailApp.getMessageById(messageId);
+
+  var asunto = mailMessage.getSubject();
+  if (asunto == ""){
+    asunto = "sin asunto"
+  }
+  var bodyCorreo = mailMessage.getPlainBody();
+
+  var adjuntos = mailMessage.getAttachments();
+
+  var emlCorreo = mailMessage.getRawContent();
+
+  var id = mailMessage.getId();
+
+  var idCuenta = Session.getActiveUser().getEmail();
+
+  var mailFrom = mailMessage.getFrom()
+
+  var mailCC = mailMessage.getCc()
+
+  var mailDate = mailMessage.getDate()
+
+  var mailTo = mailMessage.getTo()
+
+  var tipo = mailMessage.getRawContent();
+
+  var size = tipo.length;
+
+  var mimeVersion = /^MIME-Version: (.*)$/gm.exec(tipo);
+
+  if (mimeVersion){
+    mimeVersion = mimeVersion[1];
+  }else{
+    mimeVersion = 0;
+  }
+  
+  var contentType = /Content-Type: (.*); charset=".*"/gm.exec(tipo);
+
+  if (contentType){
+    contentType = contentType[1];
+  } else{
+    contentType = 'null'
+  }
+
+  var attachments = event.formInputs.check;
+
+
+      if (adjuntos.length == 0 || attachments == undefined){
+
+        var formData ={
+          "usuarioGoogle": idCuenta,
+          "asunto" : asunto,
+          "APrincipal" : emlCorreo,
+          "bodyCorreo" : bodyCorreo,
+          "idMessage" : id,
+          "mailFrom" : mailFrom,
+          "mailCC": mailCC,
+          "mailDate": mailDate,
+          "mailTo": mailTo,
+          "mailContentType": contentType,
+          "mailMimeVersion": mimeVersion,
+          "mailSize":size,
+          "checkAdjuntos": false
+        }
+      } else{
+
+        var formData ={
+          "usuarioGoogle": idCuenta,
+          "asunto" : asunto,
+          "APrincipal" : emlCorreo,
+          "bodyCorreo" : bodyCorreo,
+          "idMessage" : id,
+          "mailFrom" : mailFrom,
+          "mailCC": mailCC,
+          "mailDate": mailDate,
+          "mailTo": mailTo,
+          "mailContentType": contentType,
+          "mailMimeVersion": mimeVersion,
+          "mailSize":size,
+          "checkAdjuntos": true
+        }
+        
+      }
+  var options = {
+    "Content-Type" : "application/json",
+    'method': 'POST',
+    'payload': formData,
+    'muteHttpExceptions': true
+  };
+
+  var abox = url+"/crearDocumento/";
+  var res = UrlFetchApp.fetch(abox,options);
+
+  var res2 = JSON.parse(res);
+  //console.log("respuesta: ",res2);
+
+  if (res2.mensaje == "No está autorizado o la sesión ha caducado."){
+    
+    return CardService.newActionResponseBuilder()
+      .setNotification(CardService.newNotification()
+          .setText("No está autorizado o la sesión ha caducado."))
+      .build();
+
+  } else{
+
+    if (res2.exito == true){
+      var etiqueta = GmailApp.getUserLabelByName("ABOX");
+      etiqueta.addToThread(mailMessage.getThread());
+
+      var str = res2.mensaje;
+      var button = CardService.newTextButton()
+        .setText("abrir")
+        .setOpenLink(CardService.newOpenLink()
+            .setUrl(str)
+            .setOpenAs(CardService.OpenAs.OVERLAY)
+            .setOnClose(CardService.OnClose.RELOAD_ADD_ON));
+      var tarjeta = CardService.newCardBuilder()
+          .setHeader(CardService.newCardHeader().setTitle('CREAR DOCUMENTO'))
+          .addSection(CardService.newCardSection()
+              .addWidget(CardService.newTextParagraph().setText('abrir para ver el documento'))
+              .addWidget(button)
+        )
+            .build();
+      return ([tarjeta]);
+    } else{
+      var str = res2.mensaje;
+
+      var tarjeta = CardService.newCardBuilder()
+          .setHeader(CardService.newCardHeader().setTitle('CREAR DOCUMENTO'))
+          .addSection(CardService.newCardSection()
+              .addWidget(CardService.newTextParagraph().setText(str))
+        )
+            .build();
+      return ([tarjeta]);
+    }
+  }
+  
+}
+//----------------------------------------------------------------------------------------------------------------------
+
+function cerrarSesion (event){
+  var idCuenta = Session.getActiveUser().getEmail();
+
+  var formData = {
+    "usuarioGoogle": idCuenta
+  }
+
+  var options = {
+    "Content-Type" : "application/json",
+    'method': 'POST',
+    'payload': formData,
+    'muteHttpExceptions': true
+  };
+
+  var abox = url+"/cerrarSesion/";
+  var res = UrlFetchApp.fetch(abox,options);
+
+
+  if (res == "false"){
+      return(loadAddOn(event));
+    } else {
+      return CardService.newActionResponseBuilder()
+        .setNotification(CardService.newNotification()
+            .setText("ERROR"))
+        .build();
+      }
+}
+
+//-------------------------------------------------------------------------------------------------------------------------
+function soporte (event){
+  var mensaje = event.formInput.soporte;
+  MailApp.sendEmail('adapting.soporte@gmail.com','SERVICIO ADDON SIN CONEXION', mensaje +" - cuenta: "+ Session.getActiveUser().getEmail());
+
+  return CardService.newActionResponseBuilder()
+      .setNotification(CardService.newNotification()
+          .setText("ENVIADO A SOPORTE"))
+      .build();
+  
+}
+function abrirCorreo(){
+  var tarjeta = CardService.newCardBuilder()
+        .setHeader(CardService.newCardHeader().setTitle('ABRIR CORREO'))
+        .addSection(CardService.newCardSection()
+            .addWidget(CardService.newTextParagraph().setText("POR FAVOR ABRIR CORREO"))
+      )
+            .build();
+    return ([tarjeta]);
+}
