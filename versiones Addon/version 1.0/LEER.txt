@@ -1,0 +1,5 @@
+
+-------------------CONTENIDO------------------------------------------
+1)SE CONECTA A BASE DE DATOS SQL SERVER
+2)GUARDA LA CONFIGURACION DEL ADDON
+3)NUEVA PAGINA DE LOGIN
