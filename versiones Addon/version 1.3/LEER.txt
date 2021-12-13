@@ -1,0 +1,22 @@
+
+-------------------CONTENIDO------------------------------------------
+1)SE CONECTA A BASE DE DATOS SQL SERVER
+2)GUARDA LA CONFIGURACION DEL ADDON
+3)NUEVA PAGINA DE LOGIN
+-------------------------------1.1------------------------------------
+4) GUARDA LOS TIPOS DOCUMENTALES EN LA BASE DE DATOS
+5) MUESTRA LOS TIPOS DOCUMENTALES EN GMAIL ADDON
+6) NUEVO CAMPO DE CONFIGURACION EN EL ADDON
+--------------------------------1.2-----------------------------------
+7) TIENE LA OPCION DE SELECIONAR EL TIPO DOCUMENTAL POR DEFECTO
+EN LA PAGINA DE CONFIGURACION Y EN LA DE LOGIN
+8) SE CREO UN NUEVO CAMPO EN LA BASE DE DATOS PARA GUARDAR EL TIPO DOCUMENTAL POR DEFECTO
+---------------------------------1.3----------------------------------
+9) EL SERVICIO CONSUME EL METODO FindAllEntityTypesByUser PARA FILTRAR LOS TIPOS DOCUMENTALES POR USUARIO
+/falto completar la verificacion de cuando el usuario no tiene documenttype/
+10) SE AH CONFIGURADO EL ENTORNO DE DESARROLLO Y ENTORNO DE PRODUCION
+npm run dev = entorno de desarrollo
+npm run start = entorno de produccion
+
+
+
