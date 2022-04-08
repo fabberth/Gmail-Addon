@@ -1,0 +1,144 @@
+24/02/2022 10:42:22 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+ does not have a documentary type assigned fjtorres35@misena.edu.co
+
+09/02/2022 14:38:49 => INFO does not have a documentary type assigned fjtorres35@misena.edu.co
+
+09/02/2022 15:8:32 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:17:22 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:18:22 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:6 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:10 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:11 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:13 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:14 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:16 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:17 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:42:11 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:42:59 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 17:38:11 => INFO Documento creado: 2022-CI-00010 fjtorres35@misena.edu.co
+
+09/02/2022 17:42:9 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+09/02/2022 17:44:40 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+09/02/2022 17:46:47 => ERROR token is not defined fjtorres35@misena.edu.co
+
+09/02/2022 17:48:22 => ERROR codigo is not defined fjtorres35@misena.edu.co
+
+09/02/2022 17:49:35 => ERROR codigo is not defined fjtorres35@misena.edu.co
+
+09/02/2022 17:50:20 => INFO Documento creado: 2022-CI-00014 fjtorres35@misena.edu.co
+
+09/02/2022 17:57:11 => INFO Documento creado: 2022-CI-00015 fjtorres35@misena.edu.co
+
+09/02/2022 17:58:49 => INFO Documento creado: 2022-CI-00016 fjtorres35@misena.edu.co
+
+24/02/2022 9:19:9 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:20:58 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:23:15 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:24:12 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:28:22 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:36:42 => ERROR Cannot read property 'a:exitvalue' of undefined fjtorres35@misena.edu.co
+
+24/02/2022 9:53:47 => ERROR Cannot read property 'nombre' of undefined fjtorres35@misena.edu.co
+
+24/02/2022 9:55:30 => ERROR Cannot read property 'nombre' of undefined fjtorres35@misena.edu.co
+
+24/02/2022 9:56:21 => ERROR Cannot read property 'nombre' of undefined fjtorres35@misena.edu.co
+
+24/02/2022 9:59:39 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:1:2 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:1:7 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:6:28 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:17:6 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:18:2 => INFO Documento creado: 2022-CI-00017 fjtorres35@misena.edu.co
+
+24/02/2022 10:42:22 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+24/02/2022 10:43:58 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:7:15 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:16:59 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:25:40 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:26:23 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+24/02/2022 11:27:1 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:36:8 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:36:14 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:46:32 => ERROR Error: Unexpected root element of WSDL or include
+
+24/02/2022 12:3:36 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 12:10:21 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+24/02/2022 12:11:57 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 12:15:30 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 12:24:50 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 12:24:57 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 14:57:12 => INFO Documento creado: CBOX-CAL-00033-2022-I fjtorres35@misena.edu.co
+
+24/02/2022 14:59:28 => INFO Documento creado: CBOX-CAL-00034-2022-I fjtorres35@misena.edu.co
+
+24/02/2022 15:8:24 => INFO Documento creado: CBOX-CAL-00035-2022-I fjtorres35@misena.edu.co
+
+04/03/2022 10:43:29 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+04/03/2022 10:49:25 => INFO Documento creado: CBOX-CAL-00042-2022-I fjtorres35@misena.edu.co
+
+11/03/2022 11:42:29 => INFO Primera vez luisllodevesa@gmail.com
+
+12/03/2022 11:39:44 => INFO Documento creado: CBOX-CAL-00047-2022-I fjtorres35@misena.edu.co
+
+14/03/2022 11:29:47 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\AddonGmail\cbox.adapting.com\intranet\document-api.svc?wsdl'
+
+14/03/2022 11:30:7 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\AddonGmail\cbox.adapting.com\document-api.svc?wsdl'
+
+14/03/2022 11:30:26 => ERROR Error: Request failed with status code 404
+
+14/03/2022 11:31:49 => INFO No se encontro usuario undefined undefined
+
+14/03/2022 11:32:10 => INFO No se encontro usuario undefined undefined
+
+14/03/2022 11:43:3 => INFO Documento creado: CBOX-CAL-00048-2022-I luisllodevesa@gmail.com
+
+17/03/2022 8:22:11 => INFO No está autorizado o la sesión ha caducado. luisllodevesa@gmail.com
+
+17/03/2022 8:24:14 => INFO Documento creado: CBOX-CAL-00049-2022-I luisllodevesa@gmail.com
+
+17/03/2022 10:28:47 => INFO Documento creado: CBOX-CAL-00050-2022-I luisllodevesa@gmail.com
+
+17/03/2022 10:34:11 => INFO Documento creado: CBOX-CAL-00051-2022-I luisllodevesa@gmail.com
+

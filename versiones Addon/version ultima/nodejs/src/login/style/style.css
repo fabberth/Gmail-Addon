@@ -1,0 +1,196 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+#atras{
+    
+    width: 30px;
+    height: 30px;
+    margin: -6% 91% 0 0;
+    float: left;
+}
+#botonEnviar{
+  width: 30px;
+  height: 30px;
+  margin: -6% -94% 1% -10%;
+  float: left;
+  display: none;
+}
+#tags{
+  display: none;
+}
+.form {
+position: relative;
+z-index: 1;
+background: #FFFFFF;
+max-width: 350px;
+margin: 0 auto 100px;
+padding: 25px;
+text-align: center;
+box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+height: 227px;
+}
+.form2 {
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 350px;
+    margin: 0 auto 100px;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    
+    display: none;
+    }
+.form3 {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 350px;
+  margin: 0 auto 100px;
+  padding: 25px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+
+  }
+body {
+background: #76b852; /* fallback for old browsers */
+background: -webkit-linear-gradient(right, #76b852, #8DC26F);
+background: -moz-linear-gradient(right, #76b852, #8DC26F);
+background: -o-linear-gradient(right, #76b852, #8DC26F);
+background: linear-gradient(to left, #76b852, #8DC26F);
+font-family: "Roboto", sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;      
+}
+.form .register-form {
+display: 100px;
+}
+.form input  {
+font-family: "Roboto", sans-serif;
+outline: 0;
+background: #f2f2f2;
+width: 100%;
+border: 2px solid rgb(0, 0, 0);
+border-radius: 12px;
+margin: 0 0 15px;
+padding: 15px;
+box-sizing: border-box;
+font-size: 14px;
+}
+.form button {
+font-family: "Roboto", sans-serif;
+text-transform: uppercase;
+outline: 0;
+background: #4CAF50;
+width: 100%;
+border: 0;
+padding: 15px;
+color: #FFFFFF;
+font-size: 14px;
+-webkit-transition: all 0.3 ease;
+transition: all 0.3 ease;
+cursor: pointer;
+}
+.form2 .register-form {
+    display: 100px;
+  }
+.form2 input,select,option{
+font-family: "Roboto", sans-serif;
+outline: 0;
+background: #f2f2f2;
+width: 100%;
+border: 2px solid rgb(0, 0, 0);
+border-radius: 12px;
+margin: 0 0 15px;
+padding: 15px;
+box-sizing: border-box;
+font-size: 14px;
+}
+.form2 button {
+font-family: "Roboto", sans-serif;
+text-transform: uppercase;
+outline: 0;
+background: #4CAF50;
+width: 100%;
+border: 0;
+padding: 15px;
+color: #FFFFFF;
+font-size: 14px;
+-webkit-transition: all 0.3 ease;
+transition: all 0.3 ease;
+cursor: pointer;
+}
+
+.form3 .register-form {
+  display: 100px;
+  }
+.form3 input {
+font-family: "Roboto", sans-serif;
+outline: 0;
+background: #f2f2f2;
+width: 100%;
+border: 2px solid rgb(0, 0, 0);
+border-radius: 12px;
+margin: 0 0 15px;
+padding: 15px;
+box-sizing: border-box;
+font-size: 14px;
+}
+.form3 button {
+font-family: "Roboto", sans-serif;
+text-transform: uppercase;
+outline: 0;
+background: #4CAF50;
+width: 100%;
+border: 0;
+padding: 15px;
+color: #FFFFFF;
+font-size: 14px;
+-webkit-transition: all 0.3 ease;
+transition: all 0.3 ease;
+cursor: pointer;
+}
+
+
+
+
+*,*::after, *::before{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:  border-box;
+    box-sizing: border-box;
+  }
+  
+  #contenedor_carga{
+    background-color: rgba(41, 44, 40, 0.9);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    -webkit-transition:  all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+    z-index: 10000;
+    display: none;
+  }
+  
+  #carga{
+    border: 15px solid rgb(255, 255, 255);
+    border-top-color: #4CAF50;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    -webkit-animation: girar 1.5s linear infinite;
+    -o-animation: girar 1.5s linear infinite;
+    animation: girar 1.5s linear infinite;
+  }
+  
+  @keyframes girar {
+    from{transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+  }
