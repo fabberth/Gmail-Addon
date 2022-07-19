@@ -1,0 +1,1 @@
+Esta version permite crear documento con diferentes usuarios estando en el mismo correo

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CONECTAR</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+    <link rel="stylesheet" href="./style/style.css">
+    <script src="./login.js"></script>
+</head>
+<body>
+
+    <div id="contenedor_carga">
+        <div id="carga"></div>
+    </div>
+
+    <div id="form1" class="form">
+      <form action="" id="form" style="text-align:center;">
+           <div class="banner">
+                <h1>ABOX A CONECTAR</h1>
+            </div>
+            <input type="text" id="url" name="url" placeholder="Url Abox"><br>
+            <span id="respuesta"></span>
+            <button type="button" onclick=" verificar()">Verificar</button>
+
+        </form>
+    </div>
+    <div id="form02"class="form2">
+        <img id="atras" src="./picture/atras.png" onclick="atras()">
+
+        <form action="" id="form2" style="text-align:center;">
+
+          <div class="banner">
+              <h1>Identificacion</h1>
+          </div>
+          
+          <input type="text" id="usuarioGmail" value="%%correo%%" readonly disabled name="usuarioGmail" placeholder="usuario Gmail"><br>
+          <input type="text" id="usuario" value="%%usuarioAbox%%" name="usuario" placeholder="usuario Abox" readonly disabled><br>
+          <input type="password" id="contrasena" name="contrasena" placeholder="contraseña Abox"><br>
+
+          <div class="ui-widget">
+            <span id='TiposDocumentales'></span>
+            <input id="tags">
+          </div>
+          <div class="ui-widget">
+            <span id='Carpeta'></span>
+            <input id="Carpetatags" style="display: none;">
+          </div>
+
+          <BUtton id='loginButton' type="button" class="buttonR" onclick="login()">Identificarse</BUtton>
+          <BUtton id='enviarButton' type="button" class="buttonR" onclick="enviar()" style="display: none;">Finalizar</BUtton>
+
+      </form>
+  </div>
+
+ 
+</body>
+</html>

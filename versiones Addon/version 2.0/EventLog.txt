@@ -1,0 +1,814 @@
+12/07/2022 13:54:20 => ERROR Request failed with status code 500 sspd.interno@superservicios.gov.co
+
+does not have a documentary type assigned fjtorres35@misena.edu.co
+
+09/02/2022 14:38:49 => INFO does not have a documentary type assigned fjtorres35@misena.edu.co
+
+09/02/2022 15:8:32 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:17:22 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:18:22 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:6 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:10 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:11 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:13 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:14 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:16 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:19:17 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:42:11 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 15:42:59 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/02/2022 17:38:11 => INFO Documento creado: 2022-CI-00010 fjtorres35@misena.edu.co
+
+09/02/2022 17:42:9 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+09/02/2022 17:44:40 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+09/02/2022 17:46:47 => ERROR token is not defined fjtorres35@misena.edu.co
+
+09/02/2022 17:48:22 => ERROR codigo is not defined fjtorres35@misena.edu.co
+
+09/02/2022 17:49:35 => ERROR codigo is not defined fjtorres35@misena.edu.co
+
+09/02/2022 17:50:20 => INFO Documento creado: 2022-CI-00014 fjtorres35@misena.edu.co
+
+09/02/2022 17:57:11 => INFO Documento creado: 2022-CI-00015 fjtorres35@misena.edu.co
+
+09/02/2022 17:58:49 => INFO Documento creado: 2022-CI-00016 fjtorres35@misena.edu.co
+
+24/02/2022 9:19:9 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:20:58 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:23:15 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:24:12 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:28:22 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 9:36:42 => ERROR Cannot read property 'a:exitvalue' of undefined fjtorres35@misena.edu.co
+
+24/02/2022 9:53:47 => ERROR Cannot read property 'nombre' of undefined fjtorres35@misena.edu.co
+
+24/02/2022 9:55:30 => ERROR Cannot read property 'nombre' of undefined fjtorres35@misena.edu.co
+
+24/02/2022 9:56:21 => ERROR Cannot read property 'nombre' of undefined fjtorres35@misena.edu.co
+
+24/02/2022 9:59:39 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:1:2 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:1:7 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:6:28 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:17:6 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 10:18:2 => INFO Documento creado: 2022-CI-00017 fjtorres35@misena.edu.co
+
+24/02/2022 10:42:22 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+24/02/2022 10:43:58 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:7:15 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:16:59 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:25:40 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:26:23 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+24/02/2022 11:27:1 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:36:8 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:36:14 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 11:46:32 => ERROR Error: Unexpected root element of WSDL or include
+
+24/02/2022 12:3:36 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 12:10:21 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+24/02/2022 12:11:57 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 12:15:30 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 12:24:50 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 12:24:57 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+24/02/2022 14:57:12 => INFO Documento creado: CBOX-CAL-00033-2022-I fjtorres35@misena.edu.co
+
+24/02/2022 14:59:28 => INFO Documento creado: CBOX-CAL-00034-2022-I fjtorres35@misena.edu.co
+
+24/02/2022 15:8:24 => INFO Documento creado: CBOX-CAL-00035-2022-I fjtorres35@misena.edu.co
+
+04/03/2022 10:43:29 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+04/03/2022 10:49:25 => INFO Documento creado: CBOX-CAL-00042-2022-I fjtorres35@misena.edu.co
+
+11/03/2022 11:42:29 => INFO Primera vez luisllodevesa@gmail.com
+
+12/03/2022 11:39:44 => INFO Documento creado: CBOX-CAL-00047-2022-I fjtorres35@misena.edu.co
+
+14/03/2022 11:29:47 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\AddonGmail\cbox.adapting.com\intranet\document-api.svc?wsdl'
+
+14/03/2022 11:30:7 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\AddonGmail\cbox.adapting.com\document-api.svc?wsdl'
+
+14/03/2022 11:30:26 => ERROR Error: Request failed with status code 404
+
+14/03/2022 11:31:49 => INFO No se encontro usuario undefined undefined
+
+14/03/2022 11:32:10 => INFO No se encontro usuario undefined undefined
+
+14/03/2022 11:43:3 => INFO Documento creado: CBOX-CAL-00048-2022-I luisllodevesa@gmail.com
+
+17/03/2022 8:22:11 => INFO No está autorizado o la sesión ha caducado. luisllodevesa@gmail.com
+
+17/03/2022 8:24:14 => INFO Documento creado: CBOX-CAL-00049-2022-I luisllodevesa@gmail.com
+
+17/03/2022 10:28:47 => INFO Documento creado: CBOX-CAL-00050-2022-I luisllodevesa@gmail.com
+
+17/03/2022 10:34:11 => INFO Documento creado: CBOX-CAL-00051-2022-I luisllodevesa@gmail.com
+
+08/07/2022 12:47:56 => INFO Primera vez sspd@superservicios.gov.co
+
+08/07/2022 16:50:34 => INFO Documento creado: 20221000000369 fjtorres35@misena.edu.co
+
+08/07/2022 16:56:49 => ERROR Error: Request failed with status code 404
+
+08/07/2022 16:56:54 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\AddonGmail\admin.abox-2-7-local.adapting.net\document-api.svc?wsdl'
+
+08/07/2022 17:35:5 => INFO Documento creado: CBOX-CAL-00053-2022-I fjtorres35@misena.edu.co
+
+08/07/2022 18:22:51 => INFO Documento creado: 20225292661532 sspd@superservicios.gov.co
+
+08/07/2022 18:26:29 => INFO Documento creado: 20228202661552 sspd@superservicios.gov.co
+
+09/07/2022 15:6:42 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+09/07/2022 15:17:26 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+09/07/2022 15:27:54 => INFO Documento creado: 20221000003499 fjtorres35@misena.edu.co
+
+09/07/2022 15:43:45 => ERROR x is not defined fjtorres35@misena.edu.co
+
+09/07/2022 15:53:40 => ERROR x is not defined fjtorres35@misena.edu.co
+
+09/07/2022 15:54:3 => ERROR x is not defined fjtorres35@misena.edu.co
+
+09/07/2022 16:7:11 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+09/07/2022 16:10:20 => INFO Documento creado: 20221000000379 fjtorres35@misena.edu.co
+
+09/07/2022 16:12:0 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:12:10 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:12:22 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:15:43 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:15:56 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:16:22 => ERROR Cannot read property 'Carpetas' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:23:26 => INFO Nombre de usuario o contraseña incorrectos sspd@superservicios.gov.co
+
+09/07/2022 16:23:32 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:26:52 => INFO Primera vez sspd@superservicios.gov.co
+
+09/07/2022 16:34:46 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:38:46 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:41:36 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:44:45 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:48:17 => ERROR Cannot read property 'TiposDocumentales' of undefined sspd@superservicios.gov.co
+
+09/07/2022 16:54:6 => ERROR There are errors in your xml file: syntax error sspd@superservicios.gov.co
+
+09/07/2022 16:56:44 => ERROR Request failed with status code 404 fjtorres35@misena.edu.co
+
+09/07/2022 16:58:46 => ERROR Request failed with status code 404 fjtorres35@misena.edu.co
+
+09/07/2022 17:2:17 => ERROR Parse buffer must be String or Buffer fjtorres35@misena.edu.co
+
+09/07/2022 17:4:15 => ERROR Request failed with status code 404 fjtorres35@misena.edu.co
+
+09/07/2022 17:4:48 => ERROR Request failed with status code 404 fjtorres35@misena.edu.co
+
+09/07/2022 17:4:56 => ERROR Request failed with status code 404 fjtorres35@misena.edu.co
+
+09/07/2022 17:5:8 => ERROR Request failed with status code 404 fjtorres35@misena.edu.co
+
+09/07/2022 17:7:14 => ERROR Parse buffer must be String or Buffer fjtorres35@misena.edu.co
+
+09/07/2022 17:15:9 => ERROR Cannot read property 'Carpetas' of undefined fjtorres35@misena.edu.co
+
+09/07/2022 17:17:46 => ERROR Error: connect ETIMEDOUT 142.44.178.146:443
+
+09/07/2022 17:27:24 => ERROR Cannot read property 'length' of undefined fjtorres35@misena.edu.co
+
+09/07/2022 17:55:59 => INFO TypeError: Parse buffer must be String or Buffer fjtorres35@misena.edu.co
+
+09/07/2022 17:57:11 => INFO TypeError: Parse buffer must be String or Buffer fjtorres35@misena.edu.co
+
+09/07/2022 18:16:49 => ERROR Request failed with status code 400 fjtorres35@misena.edu.co
+
+09/07/2022 18:18:3 => ERROR Request failed with status code 400 fjtorres35@misena.edu.co
+
+09/07/2022 18:18:32 => ERROR Request failed with status code 400 fjtorres35@misena.edu.co
+
+09/07/2022 18:20:16 => ERROR Request failed with status code 400 fjtorres35@misena.edu.co
+
+09/07/2022 18:21:24 => INFO Documento creado: 20221000000389 fjtorres35@misena.edu.co
+
+10/07/2022 13:32:29 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 13:36:48 => INFO Documento creado: 20228102663902 fjtorres35@misena.edu.co
+
+10/07/2022 13:49:51 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 13:50:16 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 13:51:38 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 14:7:2 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 14:9:39 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 14:9:53 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 14:11:10 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 14:18:8 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 16:7:1 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 16:7:13 => INFO Error: Request failed with status code 500 fjtorres35@misena.edu.co
+
+10/07/2022 16:10:28 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 16:10:38 => INFO Error: Request failed with status code 500 fjtorres35@misena.edu.co
+
+10/07/2022 16:12:41 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+10/07/2022 16:50:42 => ERROR Error: connect ETIMEDOUT 172.16.2.145:443
+
+10/07/2022 16:51:21 => ERROR Error: connect ETIMEDOUT 172.16.2.145:443
+
+11/07/2022 8:32:56 => INFO Primera vez dtnorte@superservicios.gov.co
+
+11/07/2022 8:37:8 => ERROR Request failed with status code 500 dtnorte@superservicios.gov.co
+
+11/07/2022 8:39:10 => ERROR Request failed with status code 500 dtnorte@superservicios.gov.co
+
+11/07/2022 8:43:29 => INFO Documento creado: 20221000000399 fjtorres35@misena.edu.co
+
+11/07/2022 8:47:29 => ERROR Request failed with status code 500 dtnorte@superservicios.gov.co
+
+11/07/2022 8:48:6 => INFO No está autorizado o la sesión ha caducado. dtnorte@superservicios.gov.co
+
+11/07/2022 8:49:8 => INFO Error: Request failed with status code 500 dtnorte@superservicios.gov.co
+
+11/07/2022 8:49:12 => INFO Error: Request failed with status code 500 dtnorte@superservicios.gov.co
+
+11/07/2022 8:49:43 => INFO Error: Request failed with status code 500 dtnorte@superservicios.gov.co
+
+11/07/2022 8:50:6 => INFO Nombre de usuario o contraseña incorrectos dtnorte@superservicios.gov.co
+
+11/07/2022 8:52:17 => ERROR Error: connect ETIMEDOUT 172.16.2.113:443
+
+11/07/2022 8:54:50 => ERROR Error: connect ETIMEDOUT 172.16.2.113:443
+
+11/07/2022 8:59:19 => ERROR Error: connect ETIMEDOUT 172.16.2.113:443
+
+11/07/2022 9:1:10 => ERROR Error: connect ETIMEDOUT 172.16.2.113:443
+
+11/07/2022 9:2:7 => ERROR connect ETIMEDOUT 172.16.2.113:443 dtnorte@superservicios.gov.co
+
+11/07/2022 9:6:46 => INFO Documento creado: 20225292665862 dtnorte@superservicios.gov.co
+
+11/07/2022 9:11:1 => ERROR connect ETIMEDOUT 172.16.2.113:443 dtnorte@superservicios.gov.co
+
+11/07/2022 10:6:33 => INFO No está autorizado o la sesión ha caducado. dtnorte@superservicios.gov.co
+
+11/07/2022 10:9:22 => INFO Documento creado: 20225292667472 dtnorte@superservicios.gov.co
+
+11/07/2022 10:51:31 => INFO Primera vez sspd.interno@superservicios.gov.co
+
+11/07/2022 10:53:10 => INFO Documento creado: 20225292668652 sspd.interno@superservicios.gov.co
+
+11/07/2022 11:4:6 => INFO Documento creado: 20225292669012 sspd.interno@superservicios.gov.co
+
+11/07/2022 11:13:34 => INFO Primera vez dtcentro@superservicios.gov.co
+
+11/07/2022 11:15:8 => ERROR Request failed with status code 500 dtcentro@superservicios.gov.co
+
+11/07/2022 11:15:57 => INFO Documento creado: 20225292669342 dtcentro@superservicios.gov.co
+
+11/07/2022 11:17:47 => INFO does not have a documentary type assigned sspd@superservicios.gov.co
+
+11/07/2022 11:18:27 => INFO does not have a documentary type assigned sspd@superservicios.gov.co
+
+11/07/2022 11:29:4 => ERROR Request body larger than maxBodyLength limit dtnorte@superservicios.gov.co
+
+11/07/2022 11:30:18 => ERROR Request body larger than maxBodyLength limit dtnorte@superservicios.gov.co
+
+11/07/2022 11:32:21 => ERROR Request body larger than maxBodyLength limit dtnorte@superservicios.gov.co
+
+11/07/2022 11:33:37 => INFO Primera vez dtsuroccidente@superservicios.gov.co
+
+11/07/2022 11:35:12 => INFO Documento creado: 20228102669942 dtsuroccidente@superservicios.gov.co
+
+11/07/2022 11:37:46 => ERROR Request body larger than maxBodyLength limit dtnorte@superservicios.gov.co
+
+11/07/2022 11:38:42 => INFO Documento creado: 20228202670032 dtnorte@superservicios.gov.co
+
+11/07/2022 11:49:25 => ERROR Request body larger than maxBodyLength limit dtnorte@superservicios.gov.co
+
+11/07/2022 12:4:1 => INFO does not have a documentary type assigned sspd@superservicios.gov.co
+
+11/07/2022 12:6:51 => INFO Documento creado: 20228602670732 sspd@superservicios.gov.co
+
+11/07/2022 12:12:4 => INFO Documento creado: 20225292670862 sspd@superservicios.gov.co
+
+11/07/2022 12:13:36 => ERROR Request body larger than maxBodyLength limit sspd@superservicios.gov.co
+
+11/07/2022 12:14:30 => ERROR Request body larger than maxBodyLength limit sspd@superservicios.gov.co
+
+11/07/2022 12:15:29 => INFO Documento creado: 20225292670952 sspd@superservicios.gov.co
+
+11/07/2022 12:18:49 => INFO Documento creado: 20225292671022 sspd@superservicios.gov.co
+
+11/07/2022 12:19:55 => INFO Documento creado: 20225292671052 sspd@superservicios.gov.co
+
+11/07/2022 12:21:26 => INFO Documento creado: 20228202671082 dtcentro@superservicios.gov.co
+
+11/07/2022 12:21:29 => INFO does not have a documentary type assigned sspd@superservicios.gov.co
+
+11/07/2022 12:22:28 => INFO Documento creado: 20225292671132 sspd@superservicios.gov.co
+
+11/07/2022 12:22:39 => ERROR Request body larger than maxBodyLength limit sspd@superservicios.gov.co
+
+11/07/2022 12:23:50 => INFO Documento creado: 20225292671182 sspd@superservicios.gov.co
+
+11/07/2022 12:24:40 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\NewVersion\cronos.superservicios.gov.co\document-api.svc?wsdl'
+
+11/07/2022 12:24:42 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\NewVersion\cronos.superservicios.gov.co\document-api.svc?wsdl'
+
+11/07/2022 12:24:46 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\NewVersion\cronos.superservicios.gov.co\document-api.svc?wsdl'
+
+11/07/2022 12:24:46 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\NewVersion\cronos.superservicios.gov.co\document-api.svc?wsdl'
+
+11/07/2022 12:24:48 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\NewVersion\cronos.superservicios.gov.co\document-api.svc?wsdl'
+
+11/07/2022 12:24:48 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\NewVersion\cronos.superservicios.gov.co\document-api.svc?wsdl'
+
+11/07/2022 12:24:49 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\NewVersion\cronos.superservicios.gov.co\document-api.svc?wsdl'
+
+11/07/2022 12:24:55 => INFO Documento creado: 20225292671222 sspd@superservicios.gov.co
+
+11/07/2022 12:24:57 => ERROR Error: ENOENT: no such file or directory, open 'C:\Users\adapting\Desktop\NewVersion\cronos.superservicios.gov.co\document-api.svc?wsdl'
+
+11/07/2022 12:25:7 => INFO Documento creado: 20225292671232 sspd@superservicios.gov.co
+
+11/07/2022 12:26:23 => INFO Documento creado: 20225292671262 sspd.interno@superservicios.gov.co
+
+11/07/2022 12:26:58 => INFO Documento creado: 20225292671272 sspd@superservicios.gov.co
+
+11/07/2022 12:28:30 => ERROR Request body larger than maxBodyLength limit sspd@superservicios.gov.co
+
+11/07/2022 12:29:29 => INFO Documento creado: 20225292671352 sspd@superservicios.gov.co
+
+11/07/2022 12:29:58 => INFO Nombre de usuario o contraseña incorrectos sspd@superservicios.gov.co
+
+11/07/2022 12:30:44 => INFO Nombre de usuario o contraseña incorrectos sspd.interno@superservicios.gov.co
+
+11/07/2022 12:30:58 => INFO Documento creado: 20225292671382 sspd@superservicios.gov.co
+
+11/07/2022 12:31:0 => ERROR Request body larger than maxBodyLength limit sspd.interno@superservicios.gov.co
+
+11/07/2022 12:32:3 => INFO Documento creado: 20225292671422 sspd@superservicios.gov.co
+
+11/07/2022 12:32:27 => INFO Documento creado: 20225292671432 sspd.interno@superservicios.gov.co
+
+11/07/2022 12:32:46 => INFO Documento creado: 20225292671442 sspd.interno@superservicios.gov.co
+
+11/07/2022 12:33:37 => INFO Documento creado: 20225292671452 sspd@superservicios.gov.co
+
+11/07/2022 12:34:26 => INFO Documento creado: 20225292671472 sspd@superservicios.gov.co
+
+11/07/2022 12:35:57 => INFO Documento creado: 20225292671502 sspd@superservicios.gov.co
+
+11/07/2022 12:37:37 => ERROR Request body larger than maxBodyLength limit sspd@superservicios.gov.co
+
+11/07/2022 12:39:15 => ERROR Request body larger than maxBodyLength limit sspd@superservicios.gov.co
+
+11/07/2022 12:43:2 => INFO Documento creado: 20225292671662 sspd@superservicios.gov.co
+
+11/07/2022 12:44:29 => INFO Documento creado: 20225292671732 sspd@superservicios.gov.co
+
+11/07/2022 12:46:5 => ERROR Request body larger than maxBodyLength limit sspd@superservicios.gov.co
+
+11/07/2022 12:46:53 => ERROR Request body larger than maxBodyLength limit sspd@superservicios.gov.co
+
+11/07/2022 12:48:10 => ERROR Request body larger than maxBodyLength limit sspd@superservicios.gov.co
+
+11/07/2022 12:50:20 => INFO Documento creado: 20225292671812 sspd@superservicios.gov.co
+
+11/07/2022 12:53:26 => INFO Documento creado: 20225292671892 sspd@superservicios.gov.co
+
+11/07/2022 12:55:3 => INFO Documento creado: 20225292671912 sspd@superservicios.gov.co
+
+11/07/2022 12:57:49 => INFO Documento creado: 20225292672002 sspd@superservicios.gov.co
+
+11/07/2022 12:59:9 => INFO Documento creado: 20225292672052 sspd@superservicios.gov.co
+
+11/07/2022 13:31:40 => INFO Documento creado: 20228202672552 dtcentro@superservicios.gov.co
+
+11/07/2022 13:40:5 => INFO Documento creado: 20228202672712 dtnorte@superservicios.gov.co
+
+11/07/2022 13:44:18 => INFO Documento creado: 20225292672832 dtcentro@superservicios.gov.co
+
+11/07/2022 13:46:5 => INFO Documento creado: 20228202672872 dtcentro@superservicios.gov.co
+
+11/07/2022 13:49:50 => ERROR Request failed with status code 500 dtcentro@superservicios.gov.co
+
+11/07/2022 13:50:32 => INFO Documento creado: 20225292672932 dtcentro@superservicios.gov.co
+
+11/07/2022 14:2:23 => ERROR connect ECONNREFUSED 172.16.2.113:443 sspd@superservicios.gov.co
+
+11/07/2022 14:7:19 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+11/07/2022 14:8:38 => INFO No está autorizado o la sesión ha caducado. sspd@superservicios.gov.co
+
+11/07/2022 14:10:37 => INFO Documento creado: 20225292673172 sspd@superservicios.gov.co
+
+11/07/2022 14:10:47 => INFO Nombre de usuario o contraseña incorrectos sspd@superservicios.gov.co
+
+11/07/2022 14:11:1 => INFO Nombre de usuario o contraseña incorrectos sspd@superservicios.gov.co
+
+11/07/2022 14:11:51 => INFO Documento creado: 20225292673182 sspd@superservicios.gov.co
+
+11/07/2022 14:14:3 => INFO Documento creado: 20225292673212 sspd@superservicios.gov.co
+
+11/07/2022 14:16:42 => INFO No está autorizado o la sesión ha caducado. sspd.interno@superservicios.gov.co
+
+11/07/2022 14:16:58 => INFO Documento creado: 20225292673302 sspd@superservicios.gov.co
+
+11/07/2022 14:17:44 => INFO Documento creado: 20225292673312 sspd.interno@superservicios.gov.co
+
+11/07/2022 14:17:49 => INFO Documento creado: 20225292673322 sspd.interno@superservicios.gov.co
+
+11/07/2022 14:22:12 => INFO Documento creado: 20225292673452 sspd.interno@superservicios.gov.co
+
+11/07/2022 14:22:18 => INFO Documento creado: 20225292673462 sspd@superservicios.gov.co
+
+11/07/2022 14:23:40 => INFO Primera vez dtnororiente@superservicios.gov.co
+
+11/07/2022 14:24:51 => INFO Documento creado: 20225292673522 sspd.interno@superservicios.gov.co
+
+11/07/2022 14:24:58 => INFO Documento creado: 20225292673532 sspd@superservicios.gov.co
+
+11/07/2022 14:25:3 => INFO Documento creado: 20225292673542 sspd.interno@superservicios.gov.co
+
+11/07/2022 14:25:32 => INFO Nombre de usuario o contraseña incorrectos dtnororiente@superservicios.gov.co
+
+11/07/2022 14:26:12 => INFO Documento creado: 20225292673572 dtnororiente@superservicios.gov.co
+
+11/07/2022 14:26:36 => INFO Documento creado: 20225292673582 sspd@superservicios.gov.co
+
+11/07/2022 14:26:58 => INFO Documento creado: 20225292673592 sspd@superservicios.gov.co
+
+11/07/2022 14:28:7 => INFO Documento creado: 20225292673642 sspd@superservicios.gov.co
+
+11/07/2022 14:31:43 => INFO Documento creado: 20225292673702 sspd@superservicios.gov.co
+
+11/07/2022 14:46:30 => INFO Documento creado: 20225292674172 dtnororiente@superservicios.gov.co
+
+11/07/2022 15:2:43 => INFO Documento creado: 20225292674662 sspd.interno@superservicios.gov.co
+
+11/07/2022 15:3:17 => INFO Documento creado: 20225292674702 sspd.interno@superservicios.gov.co
+
+11/07/2022 15:10:38 => INFO Documento creado: 20225292675022 sspd@superservicios.gov.co
+
+11/07/2022 15:13:1 => INFO Documento creado: 20225292675092 sspd@superservicios.gov.co
+
+11/07/2022 15:13:5 => INFO Documento creado: 20225292675102 sspd@superservicios.gov.co
+
+11/07/2022 15:13:59 => INFO Documento creado: 20225292675132 sspd@superservicios.gov.co
+
+11/07/2022 15:15:38 => INFO Documento creado: 20225292675192 sspd@superservicios.gov.co
+
+11/07/2022 15:16:51 => ERROR Request failed with status code 500 sspd@superservicios.gov.co
+
+11/07/2022 15:16:56 => ERROR Request failed with status code 500 sspd.interno@superservicios.gov.co
+
+11/07/2022 15:17:15 => INFO Documento creado: 20225292675292 sspd@superservicios.gov.co
+
+11/07/2022 15:17:59 => INFO Documento creado: 20225292675332 sspd@superservicios.gov.co
+
+11/07/2022 15:19:7 => INFO Documento creado: 20225292675392 sspd@superservicios.gov.co
+
+11/07/2022 15:19:36 => INFO Documento creado: 20225292675422 sspd@superservicios.gov.co
+
+11/07/2022 15:23:5 => INFO Documento creado: 20225292675542 sspd@superservicios.gov.co
+
+11/07/2022 15:27:0 => INFO No está autorizado o la sesión ha caducado. dtnorte@superservicios.gov.co
+
+11/07/2022 15:29:31 => INFO does not have a documentary type assigned dtnorte@superservicios.gov.co
+
+11/07/2022 15:30:0 => INFO Documento creado: 20225292675792 sspd@superservicios.gov.co
+
+11/07/2022 15:31:5 => INFO Documento creado: 20228202675852 dtnorte@superservicios.gov.co
+
+11/07/2022 15:31:45 => INFO Documento creado: 20225292675892 sspd@superservicios.gov.co
+
+11/07/2022 15:34:6 => INFO Documento creado: 20225292675962 sspd@superservicios.gov.co
+
+11/07/2022 15:34:15 => INFO Documento creado: 20225292675972 sspd@superservicios.gov.co
+
+11/07/2022 15:35:43 => INFO Documento creado: 20225292676022 sspd@superservicios.gov.co
+
+11/07/2022 15:39:47 => INFO Documento creado: 20225292676152 sspd@superservicios.gov.co
+
+11/07/2022 15:41:55 => INFO Documento creado: 20225292676232 sspd@superservicios.gov.co
+
+11/07/2022 15:42:11 => INFO Documento creado: 20225292676242 sspd@superservicios.gov.co
+
+11/07/2022 15:43:18 => INFO Documento creado: 20225292676302 sspd@superservicios.gov.co
+
+11/07/2022 15:45:14 => INFO Documento creado: 20225292676392 sspd@superservicios.gov.co
+
+11/07/2022 15:46:43 => INFO Documento creado: 20225292676432 sspd@superservicios.gov.co
+
+11/07/2022 15:47:41 => INFO Documento creado: 20225292676462 sspd@superservicios.gov.co
+
+11/07/2022 15:47:46 => INFO Documento creado: 20225292676472 sspd@superservicios.gov.co
+
+11/07/2022 15:49:46 => INFO Documento creado: 20225292676572 sspd@superservicios.gov.co
+
+11/07/2022 15:50:57 => INFO Documento creado: 20225292676632 sspd@superservicios.gov.co
+
+11/07/2022 15:51:9 => INFO Documento creado: 20225292676642 sspd@superservicios.gov.co
+
+11/07/2022 15:52:10 => INFO Documento creado: 20225292676692 sspd@superservicios.gov.co
+
+11/07/2022 15:55:53 => INFO Documento creado: 20225292676832 sspd@superservicios.gov.co
+
+11/07/2022 16:1:41 => INFO Documento creado: 20225292677012 sspd@superservicios.gov.co
+
+11/07/2022 16:6:11 => ERROR Request failed with status code 500 sspd@superservicios.gov.co
+
+11/07/2022 16:7:54 => INFO Documento creado: 20225292677142 sspd@superservicios.gov.co
+
+11/07/2022 16:11:3 => INFO Documento creado: 20225292677262 sspd@superservicios.gov.co
+
+11/07/2022 16:13:51 => INFO Documento creado: 20225292677372 sspd@superservicios.gov.co
+
+11/07/2022 16:15:31 => INFO Documento creado: 20225292677412 sspd@superservicios.gov.co
+
+11/07/2022 16:17:7 => INFO Documento creado: 20225292677462 sspd@superservicios.gov.co
+
+11/07/2022 16:19:1 => INFO Documento creado: 20225292677522 sspd@superservicios.gov.co
+
+11/07/2022 16:22:0 => INFO Documento creado: 20225292677612 sspd@superservicios.gov.co
+
+11/07/2022 16:23:19 => INFO Documento creado: 20225292677652 sspd@superservicios.gov.co
+
+11/07/2022 16:24:3 => INFO Documento creado: 20225292677692 sspd@superservicios.gov.co
+
+11/07/2022 16:26:24 => INFO Documento creado: 20225292677802 sspd@superservicios.gov.co
+
+11/07/2022 16:28:56 => INFO Documento creado: 20225292677922 sspd@superservicios.gov.co
+
+11/07/2022 16:31:39 => INFO Documento creado: 20225292678052 sspd@superservicios.gov.co
+
+11/07/2022 16:35:29 => INFO Documento creado: 20225292678232 sspd@superservicios.gov.co
+
+11/07/2022 16:38:57 => INFO Documento creado: 20225292678382 sspd@superservicios.gov.co
+
+11/07/2022 16:40:25 => INFO Documento creado: 20225292678442 sspd@superservicios.gov.co
+
+11/07/2022 16:42:37 => INFO Documento creado: 20225292678532 sspd@superservicios.gov.co
+
+11/07/2022 16:54:25 => INFO Documento creado: 20225292678922 sspd@superservicios.gov.co
+
+11/07/2022 17:0:22 => INFO Documento creado: 20225292679172 sspd@superservicios.gov.co
+
+11/07/2022 17:9:8 => INFO Documento creado: 20225292679512 sspd@superservicios.gov.co
+
+11/07/2022 17:11:5 => INFO Documento creado: 20225292679602 sspd@superservicios.gov.co
+
+11/07/2022 17:12:21 => INFO Documento creado: 20225292679632 sspd@superservicios.gov.co
+
+11/07/2022 17:13:25 => ERROR connect ETIMEDOUT 172.16.2.113:443 sspd@superservicios.gov.co
+
+11/07/2022 17:13:41 => ERROR connect ETIMEDOUT 172.16.2.113:443 sspd@superservicios.gov.co
+
+11/07/2022 17:14:40 => INFO Documento creado: 20225292679732 sspd@superservicios.gov.co
+
+11/07/2022 17:15:33 => INFO Documento creado: 20225292679752 sspd@superservicios.gov.co
+
+11/07/2022 17:16:53 => INFO Documento creado: 20225292679812 sspd@superservicios.gov.co
+
+11/07/2022 17:18:14 => INFO Documento creado: 20225292679892 sspd@superservicios.gov.co
+
+11/07/2022 17:18:23 => INFO Documento creado: 20225292679912 sspd@superservicios.gov.co
+
+11/07/2022 17:19:27 => INFO Documento creado: 20225292679972 sspd@superservicios.gov.co
+
+11/07/2022 17:20:32 => INFO Documento creado: 20225292679992 sspd@superservicios.gov.co
+
+11/07/2022 17:21:27 => INFO Documento creado: 20225292680032 sspd@superservicios.gov.co
+
+11/07/2022 17:22:15 => INFO Documento creado: 20225292680082 sspd@superservicios.gov.co
+
+11/07/2022 17:23:35 => INFO Documento creado: 20225292680112 sspd@superservicios.gov.co
+
+11/07/2022 17:24:8 => INFO Documento creado: 20225292680172 sspd@superservicios.gov.co
+
+11/07/2022 17:24:45 => INFO Documento creado: 20225292680192 sspd@superservicios.gov.co
+
+11/07/2022 17:25:43 => INFO Documento creado: 20225292680222 sspd@superservicios.gov.co
+
+11/07/2022 17:26:20 => INFO Documento creado: 20225292680262 sspd@superservicios.gov.co
+
+11/07/2022 17:26:57 => INFO Documento creado: 20225292680272 sspd@superservicios.gov.co
+
+11/07/2022 17:27:40 => INFO Documento creado: 20225292680292 sspd@superservicios.gov.co
+
+11/07/2022 17:28:30 => INFO Documento creado: 20225292680322 sspd@superservicios.gov.co
+
+11/07/2022 17:29:22 => INFO Documento creado: 20225292680362 sspd@superservicios.gov.co
+
+11/07/2022 17:30:11 => INFO Documento creado: 20225292680392 sspd@superservicios.gov.co
+
+11/07/2022 17:30:56 => INFO Documento creado: 20225292680402 sspd@superservicios.gov.co
+
+11/07/2022 17:32:23 => INFO Documento creado: 20225292680442 sspd@superservicios.gov.co
+
+11/07/2022 17:34:4 => INFO Documento creado: 20225292680492 sspd@superservicios.gov.co
+
+11/07/2022 17:34:44 => INFO Documento creado: 20225292680512 sspd@superservicios.gov.co
+
+11/07/2022 17:36:11 => INFO Documento creado: 20225292680522 sspd@superservicios.gov.co
+
+11/07/2022 17:36:52 => INFO Documento creado: 20225292680532 sspd@superservicios.gov.co
+
+11/07/2022 17:37:35 => INFO Documento creado: 20225292680562 sspd@superservicios.gov.co
+
+11/07/2022 17:38:41 => INFO Documento creado: 20225292680582 sspd@superservicios.gov.co
+
+11/07/2022 17:39:49 => INFO Documento creado: 20225292680602 sspd@superservicios.gov.co
+
+11/07/2022 17:41:29 => INFO Documento creado: 20225292680632 sspd@superservicios.gov.co
+
+11/07/2022 17:46:7 => INFO Documento creado: 20225292680722 sspd@superservicios.gov.co
+
+11/07/2022 17:46:56 => INFO Documento creado: 20225292680742 sspd@superservicios.gov.co
+
+11/07/2022 17:48:45 => INFO Documento creado: 20225292680762 sspd@superservicios.gov.co
+
+11/07/2022 17:50:17 => INFO Documento creado: 20225292680792 sspd@superservicios.gov.co
+
+11/07/2022 17:50:57 => INFO Documento creado: 20225292680802 sspd@superservicios.gov.co
+
+11/07/2022 17:51:35 => INFO Documento creado: 20225292680812 sspd@superservicios.gov.co
+
+11/07/2022 17:52:14 => INFO Documento creado: 20225292680822 sspd@superservicios.gov.co
+
+11/07/2022 17:53:8 => INFO Documento creado: 20225292680832 sspd@superservicios.gov.co
+
+11/07/2022 17:53:57 => INFO Documento creado: 20225292680862 sspd@superservicios.gov.co
+
+11/07/2022 17:54:39 => INFO Documento creado: 20225292680872 sspd@superservicios.gov.co
+
+11/07/2022 17:55:29 => INFO Documento creado: 20225292680882 sspd@superservicios.gov.co
+
+11/07/2022 17:56:16 => INFO Documento creado: 20225292680902 sspd@superservicios.gov.co
+
+12/07/2022 9:48:56 => INFO Primera vez AMGUERRERO
+
+12/07/2022 9:52:7 => INFO Primera vez AFGARZON
+
+12/07/2022 9:56:39 => INFO Primera vez AACOSTA
+
+12/07/2022 11:14:10 => INFO Primera vez AGUITIERREZG
+
+12/07/2022 11:30:11 => ERROR Error: connect ETIMEDOUT 172.16.2.113:443
+
+12/07/2022 11:31:41 => INFO Primera vez AMVARGAS
+
+12/07/2022 12:52:49 => INFO Primera vez partner
+
+12/07/2022 12:56:43 => INFO Documento creado: 20221000003509 fjtorres35@misena.edu.co
+
+12/07/2022 12:56:44 => INFO Documento creado: 20221000003519 fjtorres35@misena.edu.co
+
+12/07/2022 12:58:25 => INFO Documento creado: 20221000003529 fjtorres35@misena.edu.co
+
+12/07/2022 13:3:34 => INFO Nombre de usuario o contraseña incorrectos fjtorres35@misena.edu.co
+
+12/07/2022 13:27:56 => INFO Documento creado: 20221000003539 fjtorres35@misena.edu.co
+
+12/07/2022 13:41:29 => INFO Primera vez CAPENAA
+
+12/07/2022 13:50:7 => INFO Primera vez capenaa
+
+12/07/2022 13:50:16 => INFO Primera vez jcastrillong
+
+12/07/2022 13:51:5 => INFO Documento creado: 20225292693702 sspd.interno@superservicios.gov.co
+
+12/07/2022 13:53:37 => ERROR Request failed with status code 500 sspd.interno@superservicios.gov.co
+
+12/07/2022 13:53:48 => ERROR Request failed with status code 500 sspd.interno@superservicios.gov.co
+
+12/07/2022 13:55:9 => ERROR Request failed with status code 500 sspd.interno@superservicios.gov.co
+
+12/07/2022 13:55:21 => INFO Documento creado: 20225292693742 sspd.interno@superservicios.gov.co
+
+12/07/2022 13:55:32 => ERROR Request failed with status code 500 sspd.interno@superservicios.gov.co
+
+12/07/2022 13:56:30 => ERROR Request failed with status code 500 sspd.interno@superservicios.gov.co
+
+12/07/2022 13:56:52 => INFO Documento creado: 20225292693772 sspd.interno@superservicios.gov.co
+
+12/07/2022 13:58:23 => ERROR Request failed with status code 500 sspd.interno@superservicios.gov.co
+
+12/07/2022 13:58:40 => INFO Documento creado: 20225292693792 sspd.interno@superservicios.gov.co
+
+12/07/2022 14:5:2 => INFO Nombre de usuario o contraseña incorrectos sspd.interno@superservicios.gov.co
+
+12/07/2022 14:6:42 => INFO Documento creado: 20225292693852 sspd.interno@superservicios.gov.co
+
+12/07/2022 14:10:22 => INFO Documento creado: 20225292693922 sspd.interno@superservicios.gov.co
+
+12/07/2022 14:13:0 => INFO Documento creado: 20225292693942 sspd.interno@superservicios.gov.co
+
+12/07/2022 14:13:34 => ERROR Request failed with status code 500 sspd.interno@superservicios.gov.co
+
+12/07/2022 14:55:18 => INFO does not have a documentary type assigned sspd.interno@superservicios.gov.co
+
+12/07/2022 14:58:21 => INFO Documento creado: 20225292694802 sspd.interno@superservicios.gov.co
+
+12/07/2022 15:0:6 => INFO Documento creado: 20225292694872 sspd.interno@superservicios.gov.co
+
+12/07/2022 15:1:29 => INFO Documento creado: 20225292694952 sspd.interno@superservicios.gov.co
+
+12/07/2022 15:2:1 => INFO Primera vez afgarzon
+
+12/07/2022 15:50:38 => INFO Primera vez scabrera
+
+12/07/2022 16:16:4 => INFO No está autorizado o la sesión ha caducado. sspd@superservicios.gov.co
+
+14/07/2022 14:46:52 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+14/07/2022 14:47:33 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+14/07/2022 15:0:31 => INFO Documento creado: 2022SSP2575822 fjtorres35@misena.edu.co-partner
+
+14/07/2022 15:4:43 => INFO Documento creado: 2022SSP2575832 fjtorres35@misena.edu.co-partner
+
+14/07/2022 15:18:18 => INFO Documento creado: 2022SSP2575842 fjtorres35@misena.edu.co-partner
+
+14/07/2022 15:20:44 => INFO Documento creado: 2022SSP2575852 fjtorres35@misena.edu.co-partner
+
+14/07/2022 15:47:25 => INFO Documento creado: 2022SSP2575862 fjtorres35@misena.edu.co-partner
+
+14/07/2022 15:48:33 => INFO Documento creado: 2022SSP2575872 fjtorres35@misena.edu.co-partner
+
+14/07/2022 17:17:7 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+14/07/2022 17:17:59 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+14/07/2022 17:20:13 => INFO No está autorizado o la sesión ha caducado. fjtorres35@misena.edu.co
+
+14/07/2022 17:22:12 => INFO Documento creado: 2022SSP2575882 fjtorres35@misena.edu.co-partner
+
+15/07/2022 12:29:29 => ERROR Request failed with status code 500 fjtorres35@misena.edu.co
+
+15/07/2022 12:32:28 => INFO Documento creado: 2022SSP2575892 fjtorres35@misena.edu.co-partner
+
+15/07/2022 12:40:33 => INFO Documento creado: 2022SSP2575902 fjtorres35@misena.edu.co-partner
+
+15/07/2022 12:40:35 => INFO Documento creado: 2022SSP2575912 fjtorres35@misena.edu.co-partner
+
+15/07/2022 12:42:57 => INFO Documento creado: 2022SSP2575922 fjtorres35@misena.edu.co-partner
+

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+    <link rel="stylesheet" href="./style/style.css">
+    <script src="./login.js"></script>
+</head>
+<body>
+    <div id="contenedor_carga">
+        <div id="carga"></div>
+    </div>
+
+    <div id="form3" class="form3">
+        <form action="" id="form3" style="text-align:center;">
+        <div class="banner">
+            <h1>Identificacion</h1>
+        </div>
+        <input type="text" value="%%ABOX%%" readonly disabled placeholder=""><br>
+        <input type="text" id="usuarioGmail" value="%%correo%%" readonly disabled name="usuarioGmail" placeholder="usuario Gmail"><br>
+        <input type="text" id="usuario" value="%%usuarioAbox%%" readonly disabled name="usuario" placeholder="usuario Abox"><br>
+        <input type="password" id="contrasena" name="contrasena" placeholder="contraseña Abox"><br>
+        <div class="ui-widget">
+            <span id='TiposDocumentales'></span>
+            <input id="tags">
+            </div>
+        <div class="ui-widget">
+            <span id='Carpeta'></span>
+            <input id="Carpetatags" style="display: none;">
+            </div>
+        <BUtton id='loginButton' type="button" class="buttonR" onclick="identificarse()">Identificarse</BUtton>
+        <BUtton id='enviarButton' type="button" class="buttonR" onclick="enviar()" style="display: none;">Finalizar</BUtton>
+        </form>
+    </div>
+
+</body>
+</html>
